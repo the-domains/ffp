@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ffp]]></title>
+        <description><![CDATA[ffp]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 31 Mar 2016 18:59:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Six Potential 401(k) Rollover Pitfalls]]></title>
+            <description><![CDATA[<article><h1>Six Potential 401(k) Rollover Pitfalls</h1><p>You're about to receive a distribution from your 401(k) plan, and you're considering a rollover to a traditional IRA. While these transactions are normally straightforward and trouble free, there are some pitfalls you'll want to avoid.</p></article>]]></description>
+            <link>undefinedsix-potential-401k-rollover-pitfalls/index.html</link>
+            <guid isPermaLink="false">161329e3-8238-4661-a451-39254ed1fac1</guid>
+            <pubDate>Thu, 31 Mar 2016 18:59:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
